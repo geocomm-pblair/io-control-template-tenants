@@ -2,6 +2,6 @@ variable "name" {
     type = string  
 }
 
-variable "tenantid" {
+variable "cell" {
     type = string  
 }
