@@ -1,2 +1,2 @@
 name = "{{name}}"
-cell = "{{cell}}
+cell = "{{cell}}"
