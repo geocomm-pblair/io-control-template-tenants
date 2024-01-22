@@ -1,1 +1,1 @@
-name = "{{name}}"
+urn = "{{urn}}"

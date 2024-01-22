@@ -1,3 +1,3 @@
-variable "name" {
+variable "urn" {
     type = string  
 }
